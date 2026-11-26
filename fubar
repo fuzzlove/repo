@@ -3,20 +3,23 @@ Host: gs.apple.com
 Cache-Control: no-cache
 Content-Type: text/xml; charset="utf-8"
 User-Agent: InetURL/1.0
+Expect: 100-continue
 Accept: */*
-Content-Length: 1860
+Content-Length: 1795
 Connection: close
 
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+<key>Cryptex1,ProductionMode</key>
+	<false/>
 	<key>@Cryptex1,Ticket</key>
 	<true/>
 	<key>@HostPlatformInfo</key>
 	<string>mac</string>
 	<key>@UUID</key>
-	<string>F3EDD6A6-2504-4502-87FB-69AACD2EE51C</string>
+	<string>550E8400-E29B-41D4-A716-446655440000</string>
 	<key>@VersionInfo</key>
 	<string>libauthinstall-1104.0.9</string>
 	<key>Cryptex1,ChipID</key>
@@ -24,64 +27,48 @@ Connection: close
 	<key>Cryptex1,CryptexInfoPlist</key>
 	<dict>
 		<key>Digest</key>
-		<data>
-		oxadQOKEYa92fleIwAMUgBBw0JRqphE7eA6LUFRciVZtp1jQPFw301qdJ8zE
-		yCsH
-		</data>
+		<data>BgD9zmi8YEyzImb0du7jkBxZORc4yuSal7PjH/1dM3D5v7EYm6idTffCsMqBrASY</data>
+		<key>Trusted</key>
+		<true/>
 	</dict>
-	<key>Cryptex1,Data</key>
-	<true/>
 	<key>Cryptex1,GenericDmg</key>
 	<dict>
 		<key>Digest</key>
-		<data>
-		n/HaS2hOy3bhTYrtW+DyddGpwgnP0ahjtPI28OLhr5PjHDpief2nXWxClrYj
-		0R9V
-		</data>
+		<data>bPK3zzZTHgbDLOmfVQMu49/qpSXubYW6nWyC8jXyMnAzhdehikAIVainOJo1LlQg</data>
+		<key>Trusted</key>
+		<true/>
 	</dict>
 	<key>Cryptex1,GenericTrustCache</key>
 	<dict>
 		<key>Digest</key>
-		<data>
-		Rb+pkLbuIvV0XJ3m0om3NX1JnhU94XOFvF3Mahwe7QAWiNWTZRQyZVYXtZ+y
-		jlgm
-		</data>
+		<data>uxBIJsZ9h7mqkn9Ab6C0S511FAXh7d774g2XS22vStHEHhrhg8c8GGnO8c7U2IR8</data>
+		<key>Trusted</key>
+		<true/>
 	</dict>
 	<key>Cryptex1,GenericVolume</key>
 	<dict>
 		<key>Digest</key>
-		<data>
-		AarCVSkB1p2vs76n90b2SOny/t1+a3GzMdvvYFd4BW1H9DYzIQUME2p3Ba1p
-		q9Kj
-		</data>
+		<data>JnwnsCjsGxOQtglhJad4gc0U2tYOKfXzn2FtdS08HoEA3Hp4RLPXUr2pfldpI6yS</data>
+		<key>Trusted</key>
+		<true/>
 	</dict>
 	<key>Cryptex1,Nonce</key>
-	<data>
-	GdM/bPB+KjlndMJZTc/w4dbVpaGlkgtPnrYDyrLta2hJtlHDBM7OTk+Rgse7/67/
-	</data>
+	<data>GdM/bPB+KjlndMJZTc/w4dbVpaGlkgtPnrYDyrLta2hJtlHDBM7OTk+Rgse7/67/</data>
 	<key>Cryptex1,NonceDomain</key>
 	<integer>3</integer>
-	<key>Cryptex1,PreauthorizationVersion</key>
-	<string>999.999.999.999.999,999</string>
 	<key>Cryptex1,ProductClass</key>
 	<integer>242</integer>
-	<key>Cryptex1,ProductionMode</key>
-	<false/>
+<key>Cryptex1,ProductionMode</key>
+	<true/>
 	<key>Cryptex1,SubType</key>
 	<integer>255</integer>
 	<key>Cryptex1,Type</key>
-	<integer>3</integer>
+	<integer>1</integer>
 	<key>Cryptex1,UDID</key>
 	<data>
-	AAAAAAAAgQEAFBiuAVJgHg==
-	</data>
-	<key>Cryptex1,UniqueTagList</key>
-	<data>
-	ZGF0YQ==
-	</data>
+00008101-001418AE0152601E
+</data>
 	<key>Cryptex1,UseProductClass</key>
 	<true/>
-	<key>Cryptex1,Version</key>
-	<string>999.999.999.999.999,999</string>
 </dict>
 </plist>
