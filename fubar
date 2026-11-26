@@ -5,7 +5,7 @@ Content-Type: text/xml; charset="utf-8"
 User-Agent: InetURL/1.0
 Expect: 100-continue
 Accept: */*
-Content-Length: 1795
+Content-Length: 1958
 Connection: close
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -56,9 +56,11 @@ Connection: close
 	<data>GdM/bPB+KjlndMJZTc/w4dbVpaGlkgtPnrYDyrLta2hJtlHDBM7OTk+Rgse7/67/</data>
 	<key>Cryptex1,NonceDomain</key>
 	<integer>3</integer>
+	<key>Cryptex1,PreauthorizationVersion</key>
+	<string>999.999.999.999.999,999</string>
 	<key>Cryptex1,ProductClass</key>
 	<integer>242</integer>
-<key>Cryptex1,ProductionMode</key>
+	<key>Cryptex1,ProductionMode</key>
 	<true/>
 	<key>Cryptex1,SubType</key>
 	<integer>255</integer>
@@ -70,5 +72,7 @@ Connection: close
 </data>
 	<key>Cryptex1,UseProductClass</key>
 	<true/>
+	<key>Cryptex1,Version</key>
+	<string>999.999.999.999.999,999</string>
 </dict>
 </plist>
