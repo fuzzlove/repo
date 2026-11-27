@@ -1,3 +1,129 @@
+POST /TSS/controller?action=2 HTTP/1.1
+Host: gs.apple.com
+Cache-Control: no-cache
+Content-Type: text/xml; charset="utf-8"
+User-Agent: InetURL/1.0
+Expect: 100-continue
+Accept: */*
+Content-Length: 2365
+Connection: close
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>@BBTicket</key>
+	<true/>
+	<key>@Cryptex1,Ticket</key>
+	<true/>
+	<key>@HostPlatformInfo</key>
+	<string>mac</string>
+	<key>@UUID</key>
+	<string>566F8D3E-B456-4409-8A8B-842BE33608DC</string>
+	<key>@VersionInfo</key>
+	<string>libauthinstall-1104.160.1.0.1</string>
+	<key>ApBoardID</key>
+	<integer>40</integer>
+	<key>ApChipID</key>
+	<integer>33042</integer>
+	<key>ApProductionMode</key>
+	<true/>
+	<key>ApSecurityDomain</key>
+	<string>0x01</string>
+	<key>ApSecurityMode</key>
+	<true/>
+	<key>Cryptex1,BootUUID</key>
+	<data>
+	
+	</data>
+	<key>Cryptex1,ChipID</key>
+	<string>0xFF10</string>
+	<key>Cryptex1,CryptexInfoPlist</key>
+	<dict>
+		<key>Digest</key>
+		<data>
+		
+		</data>
+	</dict>
+	<key>Cryptex1,ExclaveLiveNonce</key>
+	<data>
+	
+	</data>
+	<key>Cryptex1,ExclaveLiveNonceDomain</key>
+	<integer>0</integer>
+	<key>Cryptex1,ExclaveNonce</key>
+	<data>
+	
+	</data>
+	<key>Cryptex1,ExclaveNonceDomain</key>
+	<integer>0</integer>
+	<key>Cryptex1,GenericDmg</key>
+	<dict>
+		<key>Digest</key>
+		<data>
+		
+		</data>
+	</dict>
+	<key>Cryptex1,GenericIntegrityCatalog</key>
+	<dict>
+		<key>Digest</key>
+		<data>
+		
+		</data>
+	</dict>
+	<key>Cryptex1,GenericTrustCache</key>
+	<dict>
+		<key>Digest</key>
+		<data>
+		
+		</data>
+	</dict>
+	<key>Cryptex1,GenericVolume</key>
+	<dict>
+		<key>Digest</key>
+		<data>
+		
+		</data>
+	</dict>
+	<key>Cryptex1,LiveNonce</key>
+	<data>
+	
+	</data>
+	<key>Cryptex1,LiveNonceDomain</key>
+	<integer>0</integer>
+	<key>Cryptex1,Nonce</key>
+	<data>
+	GdM/bPB+KjlndMJZTc/w4dbVpaGlkgtPnrYDyrLta2hJtlHDBM7OTk+Rgse7/67/
+	</data>
+	<key>Cryptex1,NonceDomain</key>
+	<integer>5</integer>
+	<key>Cryptex1,PreauthorizationVersion</key>
+	<string>11.13.270.6.0,0</string>
+	<key>Cryptex1,ProductClass</key>
+	<string>0xF1</string>
+	<key>Cryptex1,ProductionMode</key>
+	<true/>
+	<key>Cryptex1,SubType</key>
+	<integer>1</integer>
+	<key>Cryptex1,Type</key>
+	<integer>4</integer>
+	<key>Cryptex1,UDID</key>
+	<data>
+	
+	</data>
+	<key>Cryptex1,UseProductClass</key>
+	<true/>
+	<key>Cryptex1,Version</key>
+	<string>11.13.270.6.0,0</string>
+	<key>UniqueBuildID</key>
+	<data>
+	
+	</data>
+</dict>
+</plist>
+
+
+
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
