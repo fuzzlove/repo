@@ -122,3 +122,80 @@ Connection: close
 </dict>
 </plist>
 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://apple.com">
+<plist version="1.0">
+<dict>
+	<key>@BBTicket</key>
+	<true/>
+	<key>@Cryptex1,Ticket</key>
+	<true/>
+	<key>@HostPlatformInfo</key>
+	<string>mac</string>
+	<key>@UUID</key>
+	<string>12345678-90AB-4CDE-8F12-34567890ABCD</string>
+	<key>@VersionInfo</key>
+	<string>libauthinstall-1104.160.1.0.1</string>
+	<key>ApBoardID</key>
+	<integer>40</integer>
+	<key>ApChipID</key>
+	<integer>33042</integer>
+	<key>ApProductionMode</key>
+	<true/>
+	<key>ApSecurityDomain</key>
+	<string>0x01</string>
+	<key>ApSecurityMode</key>
+	<true/>
+	<key>Cryptex1,BootUUID</key>
+	<data>BBBBBBBBBBBBBBBBBBBBBA==</data>
+	<key>Cryptex1,ChipID</key>
+	<string>0xFF10</string>
+	<key>Cryptex1,ExclaveLiveNonce</key>
+	<data>FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF=</data>
+	<key>Cryptex1,ExclaveLiveNonceDomain</key>
+	<integer>0</integer>
+	<key>Cryptex1,ExclaveNonce</key>
+	<data>GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG=</data>
+	<key>Cryptex1,ExclaveNonceDomain</key>
+	<integer>0</integer>
+	<key>Cryptex1,LiveNonce</key>
+	<data>CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC=</data>
+	<key>Cryptex1,LiveNonceDomain</key>
+	<integer>0</integer>
+	<key>Cryptex1,Nonce</key>
+	<data>DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD=</data>
+	<key>Cryptex1,NonceDomain</key>
+	<integer>5</integer>
+	<key>Cryptex1,PreauthorizationVersion</key>
+	<string>11.13.270.6.0,0</string>
+	<key>Cryptex1,ProductionMode</key>
+	<true/>
+	<key>Cryptex1,SubType</key>
+	<integer>0</integer>
+	<key>Cryptex1,SystemOS</key>
+	<dict>
+		<key>Digest</key>
+		<data>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+	</dict>
+	<key>Cryptex1,SystemTrustCache</key>
+	<dict>
+		<key>Digest</key>
+		<data>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+	</dict>
+	<key>Cryptex1,SystemVolume</key>
+	<dict>
+		<key>Digest</key>
+		<data>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
+	</dict>
+	<key>Cryptex1,Type</key>
+	<integer>1</integer>
+	<key>Cryptex1,UDID</key>
+	<data>EEEEEEEEEEEEEEEEEEEEEEEEEEE=</data>
+	<key>Cryptex1,UseProductClass</key>
+	<false/>
+	<key>Cryptex1,Version</key>
+	<string>11.13.270.6.0,0</string>
+</dict>
+</plist>
+
